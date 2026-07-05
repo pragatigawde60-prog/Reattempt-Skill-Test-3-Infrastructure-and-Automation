@@ -38,6 +38,7 @@ Before running this project, ensure you have:
 * Key pair (optional for SSH access)
 
 ## Deployment Steps
+<img width="1912" height="927" alt="image" src="https://github.com/user-attachments/assets/3dfd6275-704a-4ef7-91a6-53389d83b0ea" />
 
 ### 1. Initialize Terraform
 
